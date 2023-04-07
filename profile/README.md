@@ -1,4 +1,6 @@
-<img src=https://pbs.twimg.com/profile_banners/60268653/1667681411/1500x500></img>
+<div align="center">
+    <img src=https://pbs.twimg.com/profile_banners/3017977255/1665514376/600x200></img>
+</div>
 
 MinIO offers high-performance, S3 compatible object storage. Native to Kubernetes, MinIO is the only object storage suite available on every public cloud, every Kubernetes distribution, the private cloud and the
 edge. MinIO is software-defined and is 100% open source under GNU AGPL v3.
